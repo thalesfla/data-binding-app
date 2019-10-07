@@ -13,6 +13,7 @@ export class TwoWayDataBindingComponent implements OnInit {
   client = {
     firstName:  "Thales",
     lastName: "Buarque",
+    address: "",
   }
 
   constructor() { }

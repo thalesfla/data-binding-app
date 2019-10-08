@@ -14,6 +14,7 @@ export class TwoWayDataBindingComponent implements OnInit {
     firstName:  "Thales",
     lastName: "Buarque",
     address: "",
+    age: 28
   }
 
   constructor() { }
